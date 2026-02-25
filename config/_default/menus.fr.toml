@@ -16,12 +16,6 @@ name = "Les piliers"
 url = "/piliers"
 weight = 2
 
-[[main]]
-name = "Contact"
-url = "/contact"
-weight = 4
-
-
 # footer menu
 [[footer]]
 name = "A propos"
