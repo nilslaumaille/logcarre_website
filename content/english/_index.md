@@ -1,51 +1,53 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Simplify your tools, simplify your daily work"
+  content: "Consultant in automation and rationalization of digital tools."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Simplify your tools"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Many companies get lost in the complexity of their Excel files, spreadsheets, and processes. Logcarré helps you streamline your existing tools without rebuilding everything from scratch."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Audit and analysis of your current tools"
+      - "Removal of duplicates and redundancies"
+      - "Clear and logical data organization"
+      - "Training on proper use of new tools"
+      - "Save time and reduce daily stress"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Automate your tasks with no-code / low-code"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Save time by automating your repetitive tasks with accessible and sustainable solutions, without heavy development."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Building automations with Make, Power Automate, or Airtable"
+      - "Automatic notifications, synchronizations, reminders, updates"
+      - "Simple and maintainable interfaces"
+      - "Reduction of human errors and manual work"
+      - "Smooth and transparent workflows"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Connect your tools and your teams"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Link your applications together to improve collaboration and information consistency, both internally and with your external partners."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Interoperability between your tools (SharePoint, Airtable, Google Sheets, etc.)"
+      - "Secure internal and external multi-user access"
+      - "Data sharing without duplicates or information loss"
+      - "Simplified collaborative work"
+      - "Clearer, faster, more reliable processes"
     button:
       enable: false
       label: ""

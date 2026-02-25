@@ -1,70 +1,68 @@
 ---
-title: "À propos de Logcarré"
-meta_title: "À propos"
-description: "Découvrez Logcarré, sa mission et comment j’aide les petites entreprises à simplifier et automatiser leurs outils numériques."
+title: "About Logcarré"
+meta_title: "About"
+description: "Discover Logcarré, its mission and how I help small businesses simplify and automate their digital tools."
 image: "/images/avatar.png"
 draft: false
 ---
 
 
 
-# 👋 À propos de Logcarré
-
-**Logcarré** accompagne les petites et moyennes entreprises pour **reprendre le contrôle sur leurs outils et leurs processus**.  
-L’objectif est simple : **faire en sorte que la technologie serve votre activité, et non l’inverse.**
+**Logcarré** helps small and medium-sized businesses **regain control over their tools and processes**.
+The goal is simple: **make technology work for your business, not the other way around.**
 
 ---
 
-## 💡 Une approche pragmatique et humaine
+#### 💡 A pragmatic and human-centered approach
 
-Je suis convaincu que les meilleures solutions sont celles qui restent **accessibles, durables et compréhensibles par tous**.  
-Chaque projet débute par une écoute attentive : comprendre comment vous travaillez, ce qui vous freine, et ce qui peut être simplifié.
+I am convinced that the best solutions are those that remain **accessible, sustainable, and understandable by everyone**.
+Each project begins with careful listening: understanding how you work, what holds you back, and what can be simplified.
 
-Ensuite, nous concevons ensemble :
-- Des processus clairs et transparents  
-- Des outils qui s’intègrent naturellement à votre quotidien  
-- Des automatisations qui font gagner du temps sans ajouter de complexité  
+Together, we then design:
+- Clear and transparent processes
+- Tools that naturally integrate into your daily routine
+- Automations that save time without adding complexity
 
-> 🧭 *Le but : retrouver de la clarté, gagner du temps et simplifier votre quotidien.*
-
----
-
-## 🧰 Mon expertise
-
-Fort de plus de 20 ans d’expérience dans le domaine du logiciel et des outils numériques, j’ai travaillé aussi bien pour de grandes entreprises (Valeo, Autoliv, General Electric, Alstom) que pour des structures plus agiles.  
-Cette expérience me permet de **faire le lien entre robustesse technique et simplicité d’usage**.
-
-**Domaines d’intervention :**
-- Automatisation no-code & low-code (Make, Power Automate, Airtable…)  
-- Organisation et optimisation des données  
-- Interconnexion et simplification des systèmes  
-- Sécurisation et pérennisation des environnements numériques  
+> 🧭 *The goal: regain clarity, save time, and simplify your daily work.*
 
 ---
 
-## 🌿 Les valeurs qui guident Logcarré
+#### 🧰 My expertise
 
-- **Simplicité** – Moins d’étapes, plus de clarté  
-- **Efficacité** – Automatiser ce qui se répète  
-- **Transparence** – Des processus lisibles et documentés  
-- **Durabilité** – Des outils stables et évolutifs  
-- **Humain** – Des solutions adaptées à ceux qui les utilisent  
+With over 20 years of experience in software and digital tools, I have worked for both large companies (Valeo, Autoliv, General Electric, Alstom) and more agile organizations.
+This experience allows me to **bridge the gap between technical robustness and ease of use**.
 
----
-
-## 🤝 Travaillons ensemble
-
-Que vous souhaitiez :
-- Simplifier vos outils numériques  
-- Automatiser des tâches répétitives  
-- Former votre équipe à de nouveaux usages  
-- Ou simplement établir un diagnostic clair de votre situation  
-
-Je serais ravi d’en discuter avec vous.
-
-👉 [Me contacter](mailto:contact@votredomaine.fr)
+**Areas of expertise:**
+- No-code & low-code automation (Make, Power Automate, Airtable…)
+- Data organization and optimization
+- System interconnection and simplification
+- Securing and future-proofing digital environments
 
 ---
 
-> “La technologie doit rendre le travail plus simple, pas plus compliqué.”  
-> — *Philosophie Logcarré*
+#### 🌿 The values that guide Logcarré
+
+- **Simplicity** – Fewer steps, more clarity
+- **Efficiency** – Automate what is repetitive
+- **Transparency** – Readable and documented processes
+- **Sustainability** – Stable and scalable tools
+- **Human-centered** – Solutions adapted to those who use them
+
+---
+
+#### 🤝 Let's work together
+
+Whether you want to:
+- Simplify your digital tools
+- Automate repetitive tasks
+- Train your team on new workflows
+- Or simply get a clear picture of your current situation
+
+I would be happy to discuss it with you.
+
+👉 [Contact me](../contact/)
+
+---
+
+> "Technology should make work simpler, not more complicated."
+> — *Logcarré Philosophy*
