@@ -7,22 +7,32 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "A propos"
+name = "À propos"
 url = "/about"
-weight = 3
+weight = 2
 
 [[main]]
-name = "Les piliers"
+name = "Mon approche"
 url = "/piliers"
-weight = 2
+weight = 3
 
 # footer menu
 [[footer]]
-name = "A propos"
+name = "À propos"
 url = "/about"
 weight = 1
 
 [[footer]]
-name = "Politique de Confidentialité"
-url = "/privacy-policy"
+name = "Mon approche"
+url = "/piliers"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "/contact"
 weight = 3
+
+[[footer]]
+name = "Politique de confidentialité"
+url = "/privacy-policy"
+weight = 4

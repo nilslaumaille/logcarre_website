@@ -10,10 +10,9 @@ draft: false
 
 #### Mentions légales
 
-- **Nom / Raison sociale** : Nils Laumaillé – Logcarré
+- **Nom / Raison sociale** : Logcarré
 - **Statut juridique** : Auto-entrepreneur
 - **Email de contact** : logcarre@laumaille.fr
-- **Responsable de la publication** : Nils Laumaillé
 
 #### Données que nous collectons
 

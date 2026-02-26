@@ -1,53 +1,53 @@
 ---
 # Banner
 banner:
-  title: "Simplifiez vos outils, simplifiez votre quotidien"
-  content: "Consultant en automatisation et rationalisation d’outils numériques."
+  title: "Vos données d'entreprise méritent mieux qu'un fichier Excel partagé par email."
+  content: "J'aide les dirigeants de PME à moderniser leurs outils de travail — simplement, sans projet informatique interminable."
   image: "/images/banner.png"
   button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: true
+    label: "Parlons de votre situation"
+    link: "/fr/contact"
 
 # Features
 features:
-  - title: "Simplifiez vos outils"
+  - title: "Fini les fichiers qui se perdent, se doublonnent, et que personne ne comprend vraiment"
     image: "/images/service-1.png"
-    content: "Beaucoup d'entreprises se perdent dans la complexité de leurs fichiers Excel, tableaux et processus. Logcarré vous aide à rationaliser vos outils existants sans tout reconstruire."
+    content: "Dans la plupart des PME, les outils se sont accumulés au fil des années : fichiers Excel transmis par email, tableaux partagés sur des drives, données saisies deux fois dans deux endroits différents. Résultat : du temps perdu, des erreurs, et une organisation fragile. Je commence par un audit clair de ce que vous utilisez, pour identifier ce qui freine vraiment votre équipe."
     bulletpoints:
-      - "Audit et analyse de vos outils actuels"
-      - "Suppression des doublons et redondances"
-      - "Organisation claire et logique des données"
-      - "Formation à la bonne utilisation des nouveaux outils"
-      - "Gain de temps et de sérénité au quotidien"
+      - "Audit complet de vos outils et processus actuels"
+      - "Identification des doublons, des angles morts et des points de friction"
+      - "Plan d'action priorisé, sans jargon technique"
+      - "Recommandations adaptées à votre taille et à votre budget"
+      - "Zéro disruption : on améliore sans tout casser"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Demander un audit gratuit"
+      link: "/fr/contact"
 
-  - title: "Automatisez vos tâches avec le no-code / low-code"
+  - title: "Automatisez ce qui vous fait perdre du temps chaque semaine"
     image: "/images/service-2.png"
-    content: "Gagnez du temps en automatisant vos tâches répétitives grâce à des solutions accessibles et durables, sans développement lourd."
+    content: "Relances manuelles, saisies répétitives, rapports recopiés à la main, validations qui traînent… Ces tâches n'ont pas besoin d'être faites par un humain. Grâce aux outils no-code et low-code, je mets en place des automatisations fiables, maintenables par vos équipes, sans dépendance à un développeur externe."
     bulletpoints:
-      - "Création d’automatisations avec Make, Power Automate, ou Airtable"
-      - "Notifications automatiques, synchronisations, rappels, mises à jour"
-      - "Interfaces simples et maintenables"
-      - "Réduction des erreurs humaines et du travail manuel"
-      - "Des flux de travail fluides et transparents"
+      - "Automatisations sur Make, Power Automate, Zapier ou n8n"
+      - "Notifications, rappels et synchronisations entre vos outils"
+      - "Élimination des saisies doubles et des erreurs de transfert"
+      - "Tableaux de bord et rapports générés automatiquement"
+      - "Formation de vos équipes pour une autonomie durable"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: ""
+      link: ""
 
-  - title: "Connectez vos outils et vos équipes"
+  - title: "Des données d'entreprise accessibles, fiables, et sécurisées"
     image: "/images/service-3.png"
-    content: "Reliez vos applications entre elles pour améliorer la collaboration et la cohérence des informations, en interne comme avec vos partenaires externes."
+    content: "Un fichier Excel sur un poste local, c'est une panne matérielle ou un départ de collaborateur qui peut effacer des mois de données. Je vous aide à mettre en place des outils collaboratifs modernes, avec des accès contrôlés, des données centralisées et une traçabilité claire — conformes aux exigences du RGPD."
     bulletpoints:
-      - "Interopérabilité entre vos outils (SharePoint, Airtable, Google Sheets, etc.)"
-      - "Accès multi-utilisateurs internes et externes sécurisé"
-      - "Partage de données sans doublons ni perte d’informations"
-      - "Simplification du travail collaboratif"
-      - "Des processus plus clairs, plus rapides, plus fiables"
+      - "Migration vers des outils cloud sécurisés (Airtable, Notion, SharePoint…)"
+      - "Gestion fine des droits d'accès par rôle et par équipe"
+      - "Données centralisées, consultables en temps réel"
+      - "Conformité RGPD et réduction des risques de fuite de données"
+      - "Continuité de service même en cas d'absence ou de départ"
     button:
       enable: false
       label: ""

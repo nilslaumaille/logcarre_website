@@ -6,6 +6,9 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
+          {{ with .Content }}
+            <div class="content mb-10">{{ . }}</div>
+          {{ end }}
           <form action="{{ site.Params.contact_form_action }}" method="POST">
             <div class="mb-6">
               <label for="name" class="form-label">
@@ -31,13 +34,13 @@
             </div>
             <div class="mb-6">
               <label for="message" class="form-label">
-                Que souhaitez-vous nous dire? <span class="text-red-500">*</span>
+                Votre message <span class="text-red-500">*</span>
               </label>
               <textarea
                 id="message"
                 name="message"
                 class="form-input"
-                placeholder="Votre message ici..."
+                placeholder="Décrivez brièvement votre situation : votre secteur, la taille de votre équipe, et ce qui vous freine aujourd'hui..."
                 rows="8"></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Envoyer</button>
