@@ -1,96 +1,88 @@
 ---
-title: "My Pillars"
-description: "Discover the foundations of my approach: simplify, automate, connect, support, and sustain."
+title: "My approach"
+description: "No off-the-shelf solution sold in advance. A structured method to find what is really holding your organization back, and fix it for good."
 showToc: true
 weight: 2
 ---
 
-# 🌟 The Pillars of Logcarré
+In more than twenty years in the software world, I have seen the same thing in dozens of organizations: **it is not tools that are missing, it is clarity about how to use them together.**
 
-After more than twenty years in the software world, I’ve learned one thing: **complexity slows down performance.**  
-Logcarré was born from a simple belief — **tools should serve people, not the other way around.**
-
-Here are the **five pillars** that guide every project I take on.
+Here are the five principles that guide every engagement I take on.
 
 ---
 
-## 🧩 1. Simplification
+## 1. Simplify before automating
 
-Many small businesses get lost in complicated spreadsheets and inefficient processes.  
-My goal is to **clarify, organize, and simplify** the systems you already use.
+The temptation is usually to automate an existing process. But if that process is badly designed, you are automating a problem — faster, and more often.
 
-**What it brings:**
-- Less redundancy and confusion  
-- Clear and well-structured data  
-- Shared understanding among users  
-- Tools aligned with real needs  
+Before anything else, I start by understanding how you actually work: which tools, which files, which back-and-forth between people. Then we strip things down. What is useless disappears. What remains becomes clear.
 
-> 🎯 *Goal: bring back clarity and save time.*
-
----
-
-## ⚙️ 2. Automation
-
-Repetitive tasks are error-prone and time-consuming.  
-Using **no-code** and **low-code** tools (Make, Power Automate, Airtable, etc.), I design smart, automated workflows.
-
-**What it brings:**
-- Processes that run on their own  
-- Fewer manual interventions  
-- Automatic updates, reminders, and synchronizations  
-- Higher reliability of your data  
-
-> ⚡ *Goal: focus on what truly matters.*
+**In practice:**
+- Audit of your current tools and processes
+- Identification of redundancies, blind spots and friction points
+- Logical reorganization of your data and your flows
+- Prioritized action plan, based on impact and urgency
 
 ---
 
-## 🔗 3. Integration & Consistency
+## 2. Automate what does not need a human
 
-A company works best when its tools talk to each other.  
-I help you **connect and harmonize** your internal and external applications.
+Once the foundations are clear, some tasks no longer need to be done by hand: follow-ups, repetitive data entry, synchronization between tools, report generation. These tasks eat up time and generate errors.
 
-**What it brings:**
-- Smooth exchanges between tools (Excel, Airtable, SharePoint, etc.)  
-- Centralized and consistent data  
-- Secure access for internal and external users  
-- A coherent user experience  
+I set up reliable automations with no-code or low-code tools — Make, Power Automate, Zapier, n8n depending on the case. Solutions your teams can understand and maintain without depending on a developer.
 
-> 🔄 *Goal: a unified, breathing digital ecosystem.*
-
----
-
-## 🎓 4. Guidance & Learning
-
-Setting up tools is one thing.  
-Making sure everyone understands and uses them is another.  
-I make sure each solution is **explained, transmitted, and mastered**.
-
-**What it brings:**
-- Clear, tailored training sessions  
-- Simple documentation (guides, videos, mini-tutorials)  
-- Step-by-step onboarding  
-- Long-term user autonomy  
-
-> 💬 *Goal: empower your team with confidence.*
+**In practice:**
+- Automation of repetitive, low-value tasks
+- Real-time synchronization between your applications
+- Automatic notifications, reminders and approvals
+- Fewer data-entry and transfer errors
 
 ---
 
-## 🌿 5. Digital Sustainability
+## 3. Connect your tools so there is a single version of the truth
 
-Innovation shouldn’t mean overconsumption.  
-I focus on **sustainable, reliable, and open** tools to avoid technical debt and unnecessary dependencies.
+In many small and mid-sized companies, the same piece of information exists in several places: an Excel file, a record in the CRM, a spreadsheet on the drive. Everyone works from their own version. Decisions get made on data that is no longer current.
 
-**What it brings:**
-- Stable and scalable solutions  
-- Better cost management  
-- Environmentally responsible design  
-- Easier maintenance  
+I connect your tools to each other so information moves without friction — and so everyone starts from the same place.
 
-> ♻️ *Goal: build useful, durable, and responsible systems.*
+**In practice:**
+- Integration between your existing applications (SharePoint, Airtable, Google Workspace, and others)
+- Centralized data, without duplicates
+- Access rights matched to each role and each team
+- One reliable source for your whole organization
 
 ---
 
-## 🚀 In a Nutshell
+## 4. Train people so it lasts
 
-**Logcarré** offers a holistic approach to digital tools:  
-> *Simple, fluid, human, and sustainable.*
+A tool nobody really uses is worth nothing. Resistance to change within teams is not irrational — it usually comes from a lack of explanation or support.
+
+I make sure every solution deployed is understood, adopted and mastered by the people concerned. The goal is not to create a dependency on my work — it is the opposite.
+
+**In practice:**
+- Hands-on training matched to each team's level
+- Clear, reusable documentation (guides, short videos, procedures)
+- Step-by-step support during the transition
+- Full autonomy for your teams once the engagement ends
+
+---
+
+## 5. Choose solutions that do not lock you in
+
+Some tools are powerful but expensive to leave: high migration costs, data that is hard to get back, dependency on a single vendor. That kind of choice can look harmless at the start and become a constraint a few years later.
+
+I favor open, scalable solutions that you stay in control of — so your organization can grow and adapt without starting over.
+
+**In practice:**
+- Tools selected for their longevity and their interoperability
+- No dependency on a single provider
+- Exportable, portable data
+- Predictable costs, kept under control over time
+
+---
+
+## What this changes in practice
+
+An organization whose tools are clear, connected and properly used makes better decisions — because the information is reliable. It loses less time — because repetitive tasks are automated. And it is less fragile — because the data does not sit on one person's machine.
+
+If you recognize your own situation in what you have just read, [let's talk](/en/contact).

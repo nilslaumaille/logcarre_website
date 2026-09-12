@@ -1,53 +1,53 @@
 ---
 # Banner
 banner:
-  title: "Simplify your tools, simplify your daily work"
-  content: "Consultant in automation and rationalization of digital tools."
+  title: "Your company data deserves better than an Excel file shared by email."
+  content: "I help the heads of small and mid-sized companies modernize their working tools — simply, without an endless IT project."
   image: "/images/banner.png"
   button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: true
+    label: "Let's talk about your situation"
+    link: "/en/contact"
 
 # Features
 features:
-  - title: "Simplify your tools"
+  - title: "No more files that get lost, get duplicated, and that nobody really understands"
     image: "/images/service-1.png"
-    content: "Many companies get lost in the complexity of their Excel files, spreadsheets, and processes. Logcarré helps you streamline your existing tools without rebuilding everything from scratch."
+    content: "In most small and mid-sized companies, tools piled up over the years: Excel files sent by email, spreadsheets shared on drives, data entered twice in two different places. The result: wasted time, errors, and a fragile organization. I start with a clear audit of what you use, to identify what is really holding your team back."
     bulletpoints:
-      - "Audit and analysis of your current tools"
-      - "Removal of duplicates and redundancies"
-      - "Clear and logical data organization"
-      - "Training on proper use of new tools"
-      - "Save time and reduce daily stress"
+      - "Full audit of your current tools and processes"
+      - "Identification of duplicates, blind spots and friction points"
+      - "Prioritized action plan, without technical jargon"
+      - "Recommendations matched to your size and your budget"
+      - "Zero disruption: we improve without breaking everything"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Request a free audit"
+      link: "/en/contact"
 
-  - title: "Automate your tasks with no-code / low-code"
+  - title: "Automate what costs you time every week"
     image: "/images/service-2.png"
-    content: "Save time by automating your repetitive tasks with accessible and sustainable solutions, without heavy development."
+    content: "Manual follow-ups, repetitive data entry, reports copied out by hand, approvals that drag on… These tasks do not need a human to do them. With no-code and low-code tools, I set up reliable automations your teams can maintain, with no dependency on an external developer."
     bulletpoints:
-      - "Building automations with Make, Power Automate, or Airtable"
-      - "Automatic notifications, synchronizations, reminders, updates"
-      - "Simple and maintainable interfaces"
-      - "Reduction of human errors and manual work"
-      - "Smooth and transparent workflows"
+      - "Automations on Make, Power Automate, Zapier or n8n"
+      - "Notifications, reminders and synchronization between your tools"
+      - "No more double entry and transfer errors"
+      - "Dashboards and reports generated automatically"
+      - "Training for your teams, for lasting autonomy"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: ""
+      link: ""
 
-  - title: "Connect your tools and your teams"
+  - title: "Company data that is accessible, reliable and secure"
     image: "/images/service-3.png"
-    content: "Link your applications together to improve collaboration and information consistency, both internally and with your external partners."
+    content: "An Excel file on a local machine means a hardware failure or a departing colleague can wipe out months of data. I help you put modern collaborative tools in place, with controlled access, centralized data and clear traceability — in line with GDPR requirements."
     bulletpoints:
-      - "Interoperability between your tools (SharePoint, Airtable, Google Sheets, etc.)"
-      - "Secure internal and external multi-user access"
-      - "Data sharing without duplicates or information loss"
-      - "Simplified collaborative work"
-      - "Clearer, faster, more reliable processes"
+      - "Migration to secure cloud tools (Airtable, Notion, SharePoint…)"
+      - "Fine-grained access rights by role and by team"
+      - "Centralized data, available in real time"
+      - "GDPR compliance and reduced risk of data leaks"
+      - "Service continuity even when someone is away or leaves"
     button:
       enable: false
       label: ""
