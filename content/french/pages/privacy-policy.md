@@ -3,7 +3,7 @@ title: "Politique de Confidentialité"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Politique de confidentialité de Logcarré : données collectées, finalités, durées de conservation et exercice de vos droits RGPD."
 # save as draft
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
 
 #### Cookies et technologies similaires
 
-Notre site utilise des **cookies** pour améliorer votre expérience (ex. : mémoriser vos préférences de langue) et analyser le trafic (via [nom de l’outil, ex. Google Analytics]).
+Notre site utilise des **cookies** pour améliorer votre expérience (ex. : mémoriser vos préférences de langue) et analyser le trafic (via Google Analytics 4).
 
 - **Cookies nécessaires** : Fonctionnement du site.
 - **Cookies analytiques** : Mesure d’audience (anonymisée).
@@ -72,7 +72,7 @@ En vertu du RGPD, vous disposez des droits suivants :
 - **Opposition** : Refuser le traitement de vos données (ex. : marketing).
 - **Portabilité** : Récupérer vos données dans un format lisible.
 
-> *Pour exercer ces droits, contactez-nous à [votre email] ou via [formulaire de contact]. Nous répondrons sous 1 mois.*
+> *Pour exercer ces droits, écrivez-nous à logcarre@laumaille.fr ou passez par le [formulaire de contact](/fr/contact). Nous répondrons sous 1 mois.*
 
 ---
 
@@ -86,15 +86,15 @@ Nous mettons en place des mesures techniques et organisationnelles pour protége
 
 Cette politique peut être mise à jour. La date de dernière modification est indiquée ci-dessous. Nous vous invitons à la consulter régulièrement.
 
-> *Dernière mise à jour : [Date]*
+> *Dernière mise à jour : 13 septembre 2026*
 
 ---
 
 #### Contact
 
-Pour toute question, contactez notre Délégué à la Protection des Données (DPO) :
-- **Email** : [votre email]
-- **Adresse postale** : [votre adresse]
+Logcarré est une entreprise individuelle et n'est pas tenue de désigner un Délégué à la Protection des Données. Pour toute question relative à vos données :
+- **Email** : logcarre@laumaille.fr
+- **Formulaire** : [nous contacter](/fr/contact)
 
 ---
 

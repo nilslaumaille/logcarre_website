@@ -3,7 +3,7 @@ title: "Privacy Policy"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Logcarré privacy policy: data collected, purposes, retention periods and how to exercise your GDPR rights."
 # save as draft
 draft: false
 ---
@@ -42,7 +42,7 @@ draft: false
 
 #### Cookies and Similar Technologies
 
-Our site uses **cookies** to improve your experience (e.g., remembering your language preferences) and to analyze traffic (via [tool name, e.g. Google Analytics]).
+Our site uses **cookies** to improve your experience (e.g., remembering your language preferences) and to analyze traffic (via Google Analytics 4).
 
 - **Necessary cookies**: Site functionality.
 - **Analytical cookies**: Anonymized audience measurement.
@@ -73,7 +73,7 @@ Under the GDPR, you have the following rights:
 - **Objection**: Refuse the processing of your data (e.g., marketing).
 - **Portability**: Retrieve your data in a readable format.
 
-> *To exercise these rights, contact us at [your email] or via [contact form]. We will respond within 1 month.*
+> *To exercise these rights, write to logcarre@laumaille.fr or use the [contact form](/en/contact). We will respond within 1 month.*
 
 ---
 
@@ -87,15 +87,15 @@ We implement technical and organizational measures to protect your data against 
 
 This policy may be updated. The date of the last modification is indicated below. We invite you to consult it regularly.
 
-> *Last updated: [Date]*
+> *Last updated: 13 September 2026*
 
 ---
 
 #### Contact
 
-For any questions, please contact our Data Protection Officer (DPO):
-- **Email**: [your email]
-- **Postal address**: [your address]
+Logcarré is a sole proprietorship and is not required to appoint a Data Protection Officer. For any question about your data:
+- **Email**: logcarre@laumaille.fr
+- **Form**: [contact us](/en/contact)
 
 ---
 
