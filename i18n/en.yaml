@@ -12,3 +12,14 @@ search_initial_message: Type something to search..
 search_navigate: to navigate
 search_select: to select
 search_close: to close
+contact_name_label: Your name
+contact_name_placeholder: John Doe
+contact_email_label: Work email
+contact_message_label: Your message
+contact_message_placeholder: "Briefly describe your situation: your sector, the size of your team, and what is holding you back today..."
+error_404_title: Page not found
+error_404_text: The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+back_to_home: Back to home
+theme_switcher: Theme switcher
+menu_open: Open menu
+menu_close: Close menu

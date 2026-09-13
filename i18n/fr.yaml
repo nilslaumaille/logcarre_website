@@ -12,3 +12,14 @@ search_initial_message: Tapez quelque chose pour rechercher..
 search_navigate: pour naviguer
 search_select: pour sélectionner
 search_close: pour fermer
+contact_name_label: Votre nom
+contact_name_placeholder: John Doe
+contact_email_label: Email professionnel
+contact_message_label: Votre message
+contact_message_placeholder: "Décrivez brièvement votre situation : votre secteur, la taille de votre équipe, et ce qui vous freine aujourd'hui..."
+error_404_title: Page introuvable
+error_404_text: La page que vous cherchez a peut-être été supprimée, renommée, ou est momentanément indisponible.
+back_to_home: Retour à l'accueil
+theme_switcher: Changer de thème
+menu_open: Ouvrir le menu
+menu_close: Fermer le menu
